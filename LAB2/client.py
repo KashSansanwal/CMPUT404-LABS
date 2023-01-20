@@ -18,3 +18,6 @@ def get(host,port):
 
 get("www.google.com",80)
 
+
+source: https://github.com/aianta/cmput404-tcp-lab
+
